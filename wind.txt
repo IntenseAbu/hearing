@@ -1,2 +1,2 @@
 wind wind
-the wind is coming from the east.
+the wind is coming from the west.
